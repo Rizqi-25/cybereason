@@ -1,0 +1,17 @@
+curl
+libcurl4
+libc6
+libgcc-s1
+libpopt0
+libelf1
+libattr1
+zlib1g
+libsystemd0
+libcap2
+gdb
+libgdbm6
+python3
+python3-pip
+iptables
+nftables
+libnsl2
